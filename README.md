@@ -1,8 +1,17 @@
 # Heyo!👋
 
-I'm Oofie! 
+**I'm Oofie!**
 
 I love coding, and I'm pretty silly at times :D
+
+# More Info
+
+- Gender: Nonbinary
+- Prounouns: They/Them
+
+### Some ways to contact me:
+
+- Discord / Twitter: oofienoob
 
 # Languages I code in
 <img align=left width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" />
